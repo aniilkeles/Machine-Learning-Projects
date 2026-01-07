@@ -27,7 +27,7 @@ This space acts as my digital laboratory and notebook. It is divided into two ma
 - [x] **Scikit-Learn Implementations:**
     - [x] **Regression:** Linear, Ridge, Lasso, and Polynomial Regression.
     - [x] **Classification:** Logistic Regression, KNN, SVM, and Random Forest.
-- [ ] **Advanced Topics:** Model Tuning (Hyperparameter Optimization).
+- [x] **Advanced Topics:** Model Tuning (Hyperparameter Optimization).
 
 ---
 
