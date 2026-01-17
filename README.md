@@ -24,9 +24,7 @@ This space acts as my digital laboratory and notebook. It is divided into two ma
 - [x] Explore Unsupervised Learning techniques
 - [x] **Exploratory Data Analysis (EDA):** Mastering data visualization and statistical summaries.
 - [x] **Feature Engineering:** Data cleaning, scaling, encoding, and transformation techniques.
-- [x] **Scikit-Learn Implementations:**
-    - [x] **Regression:** Linear, Ridge, Lasso, and Polynomial Regression.
-    - [x] **Classification:** Logistic Regression, KNN, SVM, and Random Forest.
+- [x] **Scikit-Learn Implementations: Regression And Classification**
 - [x] **Advanced Topics:** Model Tuning (Hyperparameter Optimization).
 
 ---
